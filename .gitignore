@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+data/
+runs/
+*.png
+*.pt
+*.pth
+*.ckpt
+.env
+.DS_Store
+IXw9kS0QSI9vpvfh-grok-workspace.zip
+
